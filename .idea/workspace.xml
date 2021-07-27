@@ -15,10 +15,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/sql_queries.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1vpquYNmGxBqOSVMuemRW7wQrPQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -89,6 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1627269605048</updated>
       <workItem from="1627269611521" duration="26834000" />
+      <workItem from="1627300657530" duration="308000" />
     </task>
     <servers />
   </component>

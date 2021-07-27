@@ -1,5 +1,7 @@
 # Data Modeling with Postgres
 
+![image](sparkifydb.png)
+
 ## **Overview**
 In this project, we create data modeling with postgres and build ETL pipeline using python.
 **Study Case** : A startup in indonesia wants to analyze the data they have been collecting on songs and user activity on their new music streaming app.

@@ -1,6 +1,9 @@
 # Data Modeling with Postgres
 
-![image](sparkifydb.png)
+<p align="center">
+  <img src="sparkifydb.png" alt="Sublime's custom image"/>
+</p>
+ 
 
 ## **Overview**
 In this project, we create data modeling with postgres and build ETL pipeline using python.
